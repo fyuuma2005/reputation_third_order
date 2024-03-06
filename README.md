@@ -6,11 +6,17 @@ Indirect reciprocity is a mechanism that explains large-scale cooperation in hum
 
 ## How to use
 "ReputationThird_Structure.py" outputs Fig. 3 and Fig. A1.
+
 "ReputationThird_Cooperation.py" outputs the data for the lines in Fig. 4 and Fig. A2.
+
 "ReputationThird_IndividualBased.py" outputs the data for the markers in Fig. 4A.
+
 "ReputationThird_Cooperation_plot.py" outputs Fig. 4A and Fig. A2A.
+
 "ReputationThird_ESS_plot.py" outputs Fig. 4B and Fig. A2B.
+
 "ReputationThird_TimeSeries.py" outputs the data for Fig. A3.
+
 "ReputationThird_TimeSeries_plot.py" outputs Fig. A3.
 
 ## Citation
